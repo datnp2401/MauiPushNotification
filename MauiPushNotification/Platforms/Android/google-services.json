@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277117204421",
+    "project_id": "testls-309d1",
+    "storage_bucket": "testls-309d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277117204421:android:cc321d3a78b5600bd2fdac",
+        "android_client_info": {
+          "package_name": "com.company.MauiPushNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277117204421-388q272tjg276rr6qbho73tigd16kl6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHxSxzAThPrbzGkax2IqR_cFd4kn9HBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277117204421-388q272tjg276rr6qbho73tigd16kl6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
